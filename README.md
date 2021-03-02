@@ -1,6 +1,4 @@
-### Hi there 👋,
-
-Welcome to my page! I'm <a href="https://www.linkedin.com/in/pramodpara/">Pramod Para</a> </br>
+Hi there 👋, I'm <a href="https://www.linkedin.com/in/pramodpara/">Pramod</a> </br>
  
 Graduate Student :mortar_board:, Illinois Institute of Technology  </br>
 Software Engineering Intern (Front-End), TopOPPS
