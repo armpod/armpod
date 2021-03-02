@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋,
 
+Welcome to my page! I'm <b>Pramod Para</b> </br>
+ 
+Graduate Student @ Illinois Institute of Technology :mortar_board: </br>
+Software Engineering Intern  (Front-End) @ TopOPPS
 <!--
 **armpod/armpod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
